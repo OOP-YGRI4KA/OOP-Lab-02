@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Lab2_Variant15
+namespace Lab2
 {
     class Program
     {
